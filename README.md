@@ -4,9 +4,7 @@
 ## Overview
 This project provides a comprehensive guide for setting up and managing Jenkins jobs, including Freestyle jobs, Pipeline jobs, and Multi-branch Pipeline jobs.
 
-
-![Jenkin-jobs](jenkins jobs.png)
-
+![jenkins job](https://github.com/user-attachments/assets/4ca7f072-b709-4b49-9329-8319c91a8315)
 
 ### Table of Content
 
